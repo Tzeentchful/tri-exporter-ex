@@ -1,0 +1,1 @@
+TriExporter is a utility for extracting files from Eve Online.
